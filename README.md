@@ -1,4 +1,4 @@
-👋 Hi, I’m Husain Ghadiali (@hg0-7), a Business Analytics graduate of Boston University.
+👋 Hi, I’m Husain Ghadiali (@hg0-7), a Business Analytics graduate from Boston University.
 A little about me:
 
 👀 I’m currently diving deep into GenerativeAI and working towards learning more and implementing in the space.
