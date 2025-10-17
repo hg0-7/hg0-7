@@ -7,7 +7,7 @@ Follow me on LinkedIn where I post about important GenAI updates: https://www.li
 
 ⚡My hobbies include writing, discovering new movies, expanding my music taste and trekking. I also like to talk to new people and have new experiences.
 
-📫 How to reach me: hg07@bu.edu
+📫 How to reach me: husain017@gmail.com
 
 <!---
 hg0-7/hg0-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
